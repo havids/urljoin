@@ -14,6 +14,7 @@ namespace UrlParse
         public void urljointestt()
         {
             //url test
+            //test pull
             string url1 = "http://finance.ce.cn/gold/gd/a.html";
             string url2 = "rolling/201602/03/t20160203_8725314.shtml";
 
