@@ -16,6 +16,7 @@ namespace UrlParse
             //url test
             //test pull
             //test fetch
+            //3333
             string url1 = "http://finance.ce.cn/gold/gd/a.html";
             string url2 = "rolling/201602/03/t20160203_8725314.shtml";
 
